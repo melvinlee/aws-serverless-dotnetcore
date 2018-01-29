@@ -1,0 +1,108 @@
+﻿{
+  "Name": "Melvin Lee Chin Yong",
+  "Summary": "Software Architect, more than 13 years of experience in architecture and building robust, resilience and scale-able system. Hands-on in software development, C#, ASP.Net MVC, DevOps, AWS, docker, microservices, serverless computing.",
+  "Skills": [
+    {
+      "Category": "Programming",
+      "Description": [
+        "C#",
+        "ASP.NET MVC/WebAPI",
+        "Powershell",
+        "Bash Scripting",
+        "WCF",
+        "Python",
+        "Angular",
+        "Node.js",
+        "PHP"
+      ]
+    },
+    {
+      "Category": "Cloud",
+      "Description": [
+        "AWS",
+        "Azure"
+      ]
+    },
+    {
+      "Category": "Application Architecture",
+      "Description": [
+        "High-Availability",
+        "Microservices",
+        "Container",
+        "Docker Swarm"
+      ]
+    },
+    {
+      "Category": "DevOps Automation",
+      "Description": [
+        "Cloudformation",
+        "PowerShell DSC",
+        "Octopus Deploy",
+        "Git",
+        "TFS",
+        "VSTS",
+        "TravisCI",
+        "Appveyor",
+        "Terraform",
+        "Packer",
+        "Vagrant"
+      ]
+    },
+    {
+      "Category": "Development Methodologies",
+      "Description": [
+        "Agile",
+        "Waterfall",
+        "Spiral",
+        "TDD",
+        "BDD"
+      ]
+    },
+    {
+      "Category": "TDD/BDD",
+      "Description": [
+        "Xunit",
+        "Mspec",
+        "Nunit"
+      ]
+    },
+    {
+      "Category": "Database",
+      "Description": [
+        "SQL Server",
+        "DynamoDB",
+        "Elasticsearch",
+        "MySQL",
+        "NoSQL"
+      ]
+    }
+  ],
+  "Certifications": [
+    {
+      "Authority": "Amazon Web Services",
+      "Name": "AWS Certified SysOps Administrator - Associate",
+      "From": "2017-07",
+      "To": "2019-07",
+      "Url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2017-07-17&ci=AWS00244645"
+    },
+    {
+      "Authority": "Amazon Web Services",
+      "Name": "AWS Certified Developer – Associate",
+      "From": "2017-03",
+      "To": "2019-03",
+      "Url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-03-22&ci=AWS00244645"
+    },
+    {
+      "Authority": "Amazon Web Services",
+      "Name": "AWS Certified Solutions Architect – Associate",
+      "From": "2017-03",
+      "To": "2019-03",
+      "Url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-03-09&ci=AWS00244645"
+    },
+    {
+      "Authority": "Microsoft",
+      "Name": "Exam 532: Developing Microsoft Azure Solutions",
+      "Url": "https://www.youracclaim.com/badges/62953e60-a9a0-4b82-920a-73545ed05e0c/linked_in_profile"
+    }
+  ]
+}
